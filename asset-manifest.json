@@ -25,7 +25,7 @@
     "787.1ecaeb0b.chunk.js.map": "/tech-global-web/static/js/787.1ecaeb0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc40377.css",
-    "static/js/main.e6fa769f.js"
+    "/tech-global-web/static/css/main.2cc40377.css",
+    "/tech-global-web/static/js/main.e6fa769f.js"
   ]
 }
