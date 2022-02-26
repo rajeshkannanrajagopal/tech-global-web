@@ -158,6 +158,9 @@ h6 {
   font-size: 16px;
   font-weight: 700;
 }
+.pb-50 {
+  padding-bottom: 50px;
+}
 .pb-230 {
   padding-bottom: 230px;
 }
@@ -3774,7 +3777,8 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-banner.style6 .banner-content {
-  padding: 170px 0 200px;
+  padding: 50px 0 50px;
+  /* padding: 170px 0 200px; */
 }
 .rs-banner.style6 .banner-content .sub-text {
   font-size: 17px;
@@ -10063,7 +10067,7 @@ body .search-modal .close:hover {
   background-position: center;
 }
 .rs-footer .footer-top {
-  padding: 92px 0 65px;
+  padding: 70px 0 65px;
 }
 .rs-footer .footer-top .footer-logo img {
   height: 40px;
